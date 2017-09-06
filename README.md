@@ -1,2 +1,5 @@
 # lmu-cmsi-386
-Programming Languages
+##Programming Languages
+###Assignment one
+Using Modules, GitHub Familiarization, and JavaScript Practice!
+
