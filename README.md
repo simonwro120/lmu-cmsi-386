@@ -1,5 +1,3 @@
 # lmu-cmsi-386
-## Programming Languages
-### Assignment one
+## Homework for CMSI Programming Languages Fall 2017
 Using Modules, GitHub Familiarization, and JavaScript Practice!
-
